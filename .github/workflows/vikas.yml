@@ -5,7 +5,7 @@ on:
       - main 
 
 jobs:
-  build-and-test:
+  flutter_test:
     runs-on: ubuntu-latest
 
     steps:
